@@ -1,0 +1,237 @@
+html {
+    font-family: "Rubik", sans-serif;
+}
+.part1 {
+    margin:10px 50px;
+}
+#img1 {
+    float:right;
+    height: 300px;
+    margin-right: 40px;
+}
+#gs {
+    display: inline-block;
+    margin-top: 30px;
+    text-align: center;
+    padding: 10px 50px;
+    background-color:rgb(255, 0, 64);
+    border: 1px solid rgb(255,0,64);
+    color:white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.menu{
+    text-align: center;
+}
+.menu img{
+    float: left;
+}
+.menu a{
+    text-decoration: none;
+    display: inline-block;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: black;
+}
+#signin {
+    display: inline-block;
+    margin-left: 150px;
+}
+#signup {
+    display: inline-block;
+    padding :7px;
+    color:rgb(255,0,64);
+    border:1px solid rgb(255,0,64);
+    border-radius: 20px;
+    width:100px;
+}
+.header {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 60px;
+}
+.footer {
+    margin-left: 20px;
+    margin-right: 20px;
+    clear: right;
+}
+.gal{
+    float: left;
+    width:33%;
+    text-align: center;
+}
+.gal h2{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.main{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 80px;
+}
+.part2
+{
+    margin-top: 180px;
+}
+.part2 #img2 {
+    float:left;
+    margin:20px;
+    margin-right: 120px;
+}
+ul {
+    list-style-image: url("tick.svg");
+    list-style-position: inside;
+}
+li {
+    padding: 10px;
+}
+.feat {
+    display: inline-block;
+    margin-top: 50px;
+}
+.feat h1{
+    margin-left: 50px;
+}
+.feat p{
+    margin-left: 50px;
+}
+.plan
+{
+    margin-top: 80px;
+    text-align: center;
+}
+.box {
+    width:1200px;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-bottom: 500px;
+}
+.gal1 {
+    width:310px;
+    border:1px solid rgb(180, 178, 178);
+    border-radius: 10px;
+    padding:30px 5px;
+    margin:10px 15px;
+    text-align:center;
+    height:620px;
+    float:left;
+    position: relative;
+    margin-bottom: 80px;
+}
+#planlist {
+    list-style-image: url("jam.svg");
+    list-style-position: inside;
+    text-align: left;
+}
+.gal1 input{
+    display: inline-block;
+    color:rgb(255,0,64);
+    padding: 5px 10px;
+    border:3px solid rgb(255,0,64);
+    border-radius:20px;
+    background-color: white;
+    width:140px;
+    font-weight: bold;
+}
+.bott {
+    position: absolute;
+    bottom: 5px;
+    margin-left: 90px;
+}
+.gal1 span{
+    font-weight: normal;
+    font-size: medium;
+}
+.spl {
+    border:3px solid rgb(255,0,64);
+}
+.spl1 input{
+    color: white;
+    background-color:rgb(255,0,64) ;
+}
+.part4{
+    margin-top: 100px;
+    clear:left;
+    text-align: center;
+}
+.part4 img
+{
+    margin-top: 50px;
+    width:800px;
+}
+
+#l1 
+{
+    padding: 60px;
+    padding-bottom: 40px;
+    padding-top: 30px;
+    margin: 100px;
+    background-color: white;
+    display:inline-block;
+    height: auto;
+    width: 78%;
+}
+body
+{
+    background-color: rgb(233, 233, 233);
+    display: inline-block;
+    
+}
+button
+{
+    font-size: medium;
+    font-weight: bold;
+    background-color:orangered;
+    color: white;
+    margin-top: -90px;
+    float: right;
+    padding: 10px;
+    width: 200px;
+    border: 1px solid crimson;
+    border-radius: 7px;
+    box-shadow:10px 0px 50px white,0px 8px 20px red;
+}
+#l2
+{
+    margin-top: -50px;
+    margin-left: 100px;
+}
+
+.rigdiv
+{
+    margin: -50px;
+    margin-top: -20px;
+    margin-left:240px ;
+    float: left;
+}
+.fa {
+padding: 5px;
+font-size: 20px;
+width: 20px;
+text-align: center;
+text-decoration: none;
+margin: 5px 5px;
+border-radius: 45%;
+}
+.fa-instagram {
+background: white;
+color: red;
+}
+.fa-facebook {
+    background: white;
+    color: red;
+    }
+    .fa-twitter {
+background: white;
+color: RED;
+}
+#but.hover
+{
+    opacity: 0.5%;
+}
+#lftdi
+{
+    float: left;
+}
